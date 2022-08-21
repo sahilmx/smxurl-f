@@ -1,8 +1,7 @@
 {
   "name": "tinyurl",
   "version": "0.1.0",
-  "proxy": "http://localhost:3004",
-  "homepage": "https://sahilmx.github.io",
+  "homepage": "https://sahilmx.github.io/smxurl-f",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
