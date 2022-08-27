@@ -1,5 +1,4 @@
 import "./App.css";
-import { Route, Routes } from "react-router-dom";
 import { useState, useEffect } from "react";
 
 function App() {
@@ -10,7 +9,7 @@ function App() {
   const [generateOrCopy, setGenerateOrCopy] = useState(true);
   useEffect(() => {
     (async () => {
-      if (window.location.pathname.length ==8) {
+      if (window.location.pathname.length ===8) {
         const res = await fetch(
           `http://localhost:3004${window.location.pathname}`,
           {
