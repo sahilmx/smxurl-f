@@ -1,5 +1,7 @@
 # smxurl-f
 
+frontend -> https://smxurl.herokuapp.com/ (Disabled backend codes can be seen at https://github.com/sahilmx/smxurl)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
